@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPower", "ExPower\ExPower.csproj", "{8EDA42A6-6D10-4F87-9D54-6F4CA864FBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDA42A6-6D10-4F87-9D54-6F4CA864FBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDA42A6-6D10-4F87-9D54-6F4CA864FBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDA42A6-6D10-4F87-9D54-6F4CA864FBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDA42A6-6D10-4F87-9D54-6F4CA864FBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9938342-F4D3-46AD-83A5-E8286127A1ED}
+	EndGlobalSection
+EndGlobal

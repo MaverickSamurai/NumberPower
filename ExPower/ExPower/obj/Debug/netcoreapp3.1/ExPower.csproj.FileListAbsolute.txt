@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.exe
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.deps.json
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.runtimeconfig.json
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.runtimeconfig.dev.json
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.dll
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\bin\Debug\netcoreapp3.1\ExPower.pdb
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.AssemblyInfo.cs
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.dll
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.pdb
+C:\Users\User\Desktop\Static, Extension\ExPower\ExPower\obj\Debug\netcoreapp3.1\ExPower.genruntimeconfig.cache
